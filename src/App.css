@@ -1,0 +1,18 @@
+
+.moviescsslist {
+    background-color: rgb(255, 255, 255);
+    color: red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.moviesimg {
+   
+    height: 250px;
+}
+.moviebtn {
+    border-radius: 50px;
+    color: black;
+    margin-left: 70px;
+}
